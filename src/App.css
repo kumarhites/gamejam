@@ -1,0 +1,20 @@
+#root {
+  --font: 'Zilla Slab', serif;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 70vw;
+  margin: auto;
+  font-family: var(--font);
+  overflow-x: hidden;
+}
+@media only screen and (max-width: 600px){
+  .container{
+    width: 100vw;
+    padding: 10px
+  }
+}
