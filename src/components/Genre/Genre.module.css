@@ -29,8 +29,8 @@
     transition: all 0.5s ease-in-out;    
 }
 .card{
-    max-width: 30%;
-    margin: 5px;
+    max-width: 20%;
+    margin: 2px;
     margin-bottom: 18px;
     position: relative;
     flex-wrap: wrap;
