@@ -27,7 +27,6 @@ function App() {
 			case "Shooter":
 			case "Adventure":
 			case "Multiplayer":
-				console.log(currentGenre);
 				return game.genre === currentGenre
 			default:
 				return true
