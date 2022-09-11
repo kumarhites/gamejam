@@ -1,4 +1,5 @@
 import styles from './Genre.module.css'
+
 //state
 const filterList = ['All', 'Action', 'Action-RPG', 'Adventure', 'Shooter', 'Multiplayer', 'Survival']
 

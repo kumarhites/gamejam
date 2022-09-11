@@ -198,8 +198,64 @@ export default function gamesdb(){
       name: "Dead Space",
       background_image: "https://media.rawg.io/media/crop/600/400/games/ebd/ebdbb7eb52bd58b0e7fa4538d9757b60.jpg",
       rating: 4.2,
-      genre: "Shooter",
+      genre: "Action-RPG",
       platforms: "PC, Playstation, XBox"
+    },
+    {
+      id: uuidv4(),
+      name: "God of War: Ragnarök",
+      background_image: "https://media.rawg.io/media/crop/600/400/games/1c3/1c305096502c475c00276c827f0fd697.jpg",
+      rating: 4.2,
+      genre: "Action",
+      platforms: "PC, Playstation, XBox"
+    },
+    {
+      id: uuidv4(),
+      name: "Scorn",
+      background_image: "https://api.rawg.io/media/crop/600/400/games/f8c/f8cc3b4834259f8a812ce77804bc12ed.jpg",
+      rating: 4.9,
+      genre: "Action",
+      platforms: "PC, XBox"
+    },
+    {
+      id: uuidv4(),
+      name: "The Callisto Protocol",
+      background_image: "https://api.rawg.io/media/crop/600/400/screenshots/1b2/1b2dfac099e11ad546bf44b2284f5c1c.jpg",
+      rating: 4.8,
+      genre: "Adventure",
+      platforms: "PC, XBox, Playstation"
+    },
+    {
+      id: uuidv4(),
+      name: "The Day Before",
+      background_image: "https://media.rawg.io/media/crop/600/400/games/d0b/d0bc26b4a79b95fa5b399d18f79fc207.jpg",
+      rating: 4.5,
+      genre: "Action-RPG",
+      platforms: "PC, XBox, Playstation"
+    },
+    {
+      id: uuidv4(),
+      name: "Metal: Hellsinger",
+      background_image: "https://media.rawg.io/media/crop/600/400/games/34e/34eb79862b32835924d999d575e08202.jpg",
+      rating: 4.4,
+      genre: "Action-RPG",
+      platforms: "PC, XBox, Playstation"
+    },
+    {
+      id: uuidv4(),
+      name: "The Ascent",
+      background_image: "https://media.rawg.io/media/crop/600/400/games/d68/d68eeda4d2bc89241066056efae8f7c2.jpg",
+      rating: 4.6,
+      genre: "Action",
+      platforms: "PC, XBox, Playstation"
+    },
+    {
+      id: uuidv4(),
+      name: "Outriders",
+      background_image: "https://api.rawg.io/media/crop/600/400/screenshots/9cf/9cfa8c5dcc7caaf96c27b2cb9355f290.jpg",
+      rating: 4.9,
+      genre: "Action",
+      platforms: "PC, XBox, Playstation"
     },
   ]
 }
