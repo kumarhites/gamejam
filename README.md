@@ -1,1 +1,1 @@
-# Gamejam [./src/assets/icon.png]
+# Gamejam (./src/assets/icon.png)
